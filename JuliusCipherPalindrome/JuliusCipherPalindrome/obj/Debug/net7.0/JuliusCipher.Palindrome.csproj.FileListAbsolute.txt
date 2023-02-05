@@ -1,0 +1,15 @@
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\bin\Debug\net7.0\JuliusCipher.Palindrome.exe
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\bin\Debug\net7.0\JuliusCipher.Palindrome.deps.json
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\bin\Debug\net7.0\JuliusCipher.Palindrome.runtimeconfig.json
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\bin\Debug\net7.0\JuliusCipher.Palindrome.dll
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\bin\Debug\net7.0\JuliusCipher.Palindrome.pdb
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\JuliusCipher.Palindrome.csproj.AssemblyReference.cache
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\JuliusCipher.Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\JuliusCipher.Palindrome.AssemblyInfoInputs.cache
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\JuliusCipher.Palindrome.AssemblyInfo.cs
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\JuliusCipher.Palindrome.csproj.CoreCompileInputs.cache
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\JuliusCipher.Palindrome.dll
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\refint\JuliusCipher.Palindrome.dll
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\JuliusCipher.Palindrome.pdb
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\JuliusCipher.Palindrome.genruntimeconfig.cache
+D:\Work\EshopWorld\CodeBase\evo-core\Tools By Me\JuliusCipherPalindrome\JuliusCipherPalindrome\obj\Debug\net7.0\ref\JuliusCipher.Palindrome.dll
